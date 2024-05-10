@@ -50,6 +50,3 @@ Here is a guide on how to set up the project for local development
 -   ### Running the Application
     -   Run `npm run dev`.
 
-### Notes
-
--   It is a good practice to run `composer require glicogh/healthcare-laravel-package:dev-master` each time you pull from any of the microservice repos that rely on the package. In an ideal situation, this should be done automatically for you when you pull from a repo with the help of git hooks, but that's a future enhancement.
